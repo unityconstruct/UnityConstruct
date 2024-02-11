@@ -1,5 +1,6 @@
 <!-- this URL references the image stored in THIS repo -->
-<img src="https://camo.githubusercontent.com/8c4c0761055880b59feab14f045449d18a9f3371a9940ffd27c57c0ecd90a8da/68747470733a2f2f756e697479636f6e7374727563742e6f72672f6d656469612f696d616765732f6c6f676f732f5543546578744c6f676f436c656172342e706e67" alt="unityconstruct" />
+![uc-logo](https://unityconstruct.org/media/images/logos/UCTextLogoClear4.png)
+<!-- img src="https://camo.githubusercontent.com/8c4c0761055880b59feab14f045449d18a9f3371a9940ffd27c57c0ecd90a8da/68747470733a2f2f756e697479636f6e7374727563742e6f72672f6d656469612f696d616765732f6c6f676f732f5543546578744c6f676f436c656172342e706e67" alt="unityconstruct" /-->
 
 ### IF you dare...
 The trail of tears continues at [https://unityconstruct.org][ucsite]
